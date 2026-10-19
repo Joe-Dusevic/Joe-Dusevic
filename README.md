@@ -1,3 +1,4 @@
+# Joe Dusevic
 International Relations graduate of the University of Sydney, with a background in data science and quantitative methods. I'm interested in political economy, strategic risk and applied quantitative modelling.
 
 ## Featured project
