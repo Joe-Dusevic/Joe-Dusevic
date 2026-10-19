@@ -15,4 +15,4 @@ Python (pandas, NumPy, matplotlib) · SQL · Monte Carlo simulation · scenario 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/joe-dusevic)
+[LinkedIn](https://www.linkedin.com/in/joe-dusevic-203160191)
