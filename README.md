@@ -1,16 +1,18 @@
-## Hi there 👋
+International Relations graduate of the University of Sydney, with a background in data science and quantitative methods. I'm interested in political economy, strategic risk and applied quantitative modelling.
 
-<!--
-**Joe-Dusevic/Joe-Dusevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured project
 
-Here are some ideas to get you started:
+**[Burkina Faso's Sovereign Gold Strategy](https://github.com/Joe-Dusevic/Burkina-Faso-s-Sovereign-Gold-Strategy)**
+An independent analysis of Burkina Faso's gold strategy since 2022, defined by four properties: protracted counter-insurgency, pragmatic state capitalism, systemic monetary exposure and rhetorical dissonance. A Python model reproduces every figure in the paper:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mirror trade:** official gold exports checked against what Switzerland and the UAE report importing
+- **Control–capacity squeeze index:** how the state's commitments compare with the gold income it can afford as prices fall
+- **Security-risk valuation:** a Monte Carlo model of how insecurity affects the value of private mining
+
+## Skills
+
+Python (pandas, NumPy, matplotlib) · SQL · Monte Carlo simulation · scenario and sensitivity analysis · political and economic research
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/joe-dusevic)
